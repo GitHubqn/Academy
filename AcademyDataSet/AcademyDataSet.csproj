@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{34259E59-550E-4544-A5F2-7393EAFF43BB}</ProjectGuid>
+    <ProjectGuid>{5274EABB-AAFE-4453-8A8D-29BA92B45F6B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Library2</RootNamespace>
-    <AssemblyName>Library2</AssemblyName>
+    <RootNamespace>AcademyDataSet</RootNamespace>
+    <AssemblyName>AcademyDataSet</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

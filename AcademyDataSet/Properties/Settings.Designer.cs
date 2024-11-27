@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Library2.Properties
+namespace AcademyDataSet.Properties
 {
 
 
