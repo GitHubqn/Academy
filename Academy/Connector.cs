@@ -13,8 +13,8 @@ namespace Academy
 {
 	class Connector
 	{
-		static readonly string connectionString = ConfigurationManager.ConnectionStrings["Academy_PD_311"].ConnectionString;
-		static SqlConnection connection;
+        static readonly string connectionString = ConfigurationManager.ConnectionStrings["Academy_PD_311"].ConnectionString;
+        static SqlConnection connection;
 		public static Dictionary<string, int> LearningForms;
 		public static Dictionary<string, int> Directions;
 		static Connector()
